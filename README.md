@@ -8,6 +8,8 @@ the target directory would look something like shown below.
 
 ```/home/stephen/myenv/lib/python3.12/site-packages/modules/video```
 
-After copying the file, it is necessary to install the dependencies using the command ```pip install ultralytics```
+After copying the file, it is necessary to install the dependencies using the command 
+
+```pip install ultralytics```
 
 This file was created using software developed by Ultralytics and is used under the [AGPL-3.0 license](https://github.com/ultralytics/ultralytics?tab=AGPL-3.0-1-ov-file#AGPL-3.0-1-ov-file)
